@@ -1,0 +1,26 @@
+[
+	{
+		"file": "/home/great/Documents/Unreal Projects/GoapSystemUpgrade/Source/GoapSystemUpgrade/GoapSystemUpgrade.Build.cs",
+		"arguments": [
+			"/home/great/Unreal Engine/UE_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/great/Documents/Unreal Projects/GoapSystemUpgrade/.vscode/compileCommands_Default/GoapSystemUpgrade.1.rsp"
+		],
+		"directory": "/home/great/Unreal Engine/UE_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/great/Documents/Unreal Projects/GoapSystemUpgrade/Source/GoapSystemUpgrade/GoapSystemUpgrade.cpp",
+		"arguments": [
+			"/home/great/Unreal Engine/UE_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/great/Documents/Unreal Projects/GoapSystemUpgrade/.vscode/compileCommands_Default/GoapSystemUpgrade.1.rsp"
+		],
+		"directory": "/home/great/Unreal Engine/UE_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/great/Documents/Unreal Projects/GoapSystemUpgrade/Source/GoapSystemUpgrade/GoapSystemUpgrade.h",
+		"arguments": [
+			"/home/great/Unreal Engine/UE_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/great/Documents/Unreal Projects/GoapSystemUpgrade/.vscode/compileCommands_Default/GoapSystemUpgrade.1.rsp"
+		],
+		"directory": "/home/great/Unreal Engine/UE_5.4.4/Engine/Source"
+	}
+]
